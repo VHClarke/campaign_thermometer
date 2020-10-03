@@ -134,6 +134,13 @@ span {
   margin-top: -34px;
 }
 
+.secFive {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 13px;
+}
+
 .pic {
  width: 50%;
  display: block;
