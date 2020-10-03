@@ -125,6 +125,12 @@ span {
   text-align: center;
 }
 
+.secFour {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
 .pic {
  width: 50%;
  display: block;
