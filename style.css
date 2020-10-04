@@ -147,6 +147,10 @@ span {
   margin-top: 13px;
 }
 
+section.secFive {
+    margin-top: -25px;
+}
+
 .pic {
  width: 50%;
  display: block;
